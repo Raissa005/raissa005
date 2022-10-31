@@ -6,7 +6,7 @@
 • Estudando javascript.
 
 <div align="center">
-  <a href="https://github.com/raissa005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissa005&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissa005&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Raissa005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raissa005&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=dracula"/>
 </div>
