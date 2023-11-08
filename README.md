@@ -1,10 +1,10 @@
 ### Olá!
 **Raissa005/raissa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/Raissa005/github-readme-stats)
 <div align="center">
   <a href="https://github.com/Raissa005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raissa005&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,5 +22,3 @@ __________________________________________________________________
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    
 </div>
-![Snake animation](https://github.com/Raissa005/raissa005/blob/output/github-contribution-grid-snake.svg)
-
