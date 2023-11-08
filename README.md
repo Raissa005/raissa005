@@ -1,10 +1,12 @@
-### Olá!
-**Raissa005/raissa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-family: 'Times New Roman', serif;"><strong> Olá, seja bem vindo ao meu github :smile:</strong> Aqui posto alguns projetos que estou desenvolvendo na minha aprendizagem em desenvolvimento de software. 🤓:computer:</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=false)](https://github.com/Raissa005/github-readme-stats)
-<div align="center">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <a href="https://github.com/Raissa005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=false" />
+  </a>
+  <a href="https://github.com/Raissa005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=transparent" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
