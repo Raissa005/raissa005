@@ -1,6 +1,6 @@
 <p style="font-family: 'Times New Roman', serif;"><strong> Olá, seja bem vindo ao meu github :smile:</strong> Aqui posto alguns projetos que estou desenvolvendo na minha aprendizagem em desenvolvimento de software. 🤓:computer:</p>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+<div align="center" height="180em">
   <a href="https://github.com/Raissa005">
     <img src="https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=false" />
   </a>
@@ -11,9 +11,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raíssa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raíssa-Java" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Raíssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raíssa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raíssa-C++" height="30" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  
 </div> 
 __________________________________________________________________
  
