@@ -1,7 +1,7 @@
 ### Olá!
 **Raissa005/raissa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/Raissa005/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa005&rank_icon=github&theme=transparent&include_all_commits=true&count_private=false)](https://github.com/Raissa005/github-readme-stats)
 <div align="center">
   <a href="https://github.com/Raissa005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa005&layout=compact&langs_count=7&theme=transparent"/>
