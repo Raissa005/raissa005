@@ -21,7 +21,7 @@ ________________________________________________________________________________
   <img align="center" alt="Raíssa-C++" height="30" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   
 </div> 
-_________________________________________________________________________
+___________________________________________________________________________
  
 <div> 
   <a href="https://www.linkedin.com/in/ra%C3%ADssa-leite-725913207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
