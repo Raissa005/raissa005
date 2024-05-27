@@ -1,6 +1,6 @@
 ________________________________________________________________________________________________________________________________________________________
 
-<p style="font-family: 'Times New Roman', serif;"><strong> Olá, seja bem vindo ao meu github :smile:</strong> Aqui posto alguns projetos que estou desenvolvendo na minha aprendizagem em desenvolvimento de software. 🤓:computer:</p>
+<p style="font-family: 'Times New Roman', serif;"><strong> Olá, seja bem vindo ao meu github :smile:</strong> Aqui posto alguns projetos que estou desenvolvendo na minha aprendizagem em desenvolvimento de software. 🤓 :computer:</p>
 
 
 <div align="center" >
